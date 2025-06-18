@@ -1471,7 +1471,7 @@ win.document.write('<table>' + '<tr><td style="padding-left:10px;">' + g_name + 
 
     win.document.write(' <p style="text-align:left;padding-left:10px;padding-right:10px;margin-top:20px">' + my_signature + '</p>');
 
-    win.document.write('<table>' + '<tr><td style="padding-left:10px;">' + loan_signature + '</td><td style="padding-left:10px;">' + '<img src="' + sigImage + '" class="nidimg" alt="Paris" id="fron4" height="100" width="120" style="padding:20px">' + '</td>' + '<tr>' + '<tr><td style="padding-left:10px;">' + loan_signature2 + '</td><td style="padding-left:10px;">' + '<img src="assets/img/WhatsApp Image 2025-04-16 at 6.55.45 PM.jpeg" class="nidimg" alt="Paris" id="fron4" height="120" width="120" style="padding:20px">' + '</td>' + '<tr>' + '<tr><td style="padding-left:10px;">' + '</td>' + '</table>');
+    win.document.write('<table>' + '<tr><td style="padding-left:10px;">' + loan_signature + '</td><td style="padding-left:10px;">' + '<img src="' + sigImage + '" class="nidimg" alt="Paris" id="fron4" height="100" width="120" style="padding:20px">' + '</td>' + '<tr>' + '<tr><td style="padding-left:10px;">' + loan_signature2 + '</td><td style="padding-left:10px;">' + '<img src="assets/img/WhatsApp Image 2025-06-18 at 1.40.00 AM.jpeg" class="nidimg" alt="Paris" id="fron4" height="120" width="120" style="padding:20px">' + '</td>' + '<tr>' + '<tr><td style="padding-left:10px;">' + '</td>' + '</table>');
 
 
 
